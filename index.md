@@ -31,8 +31,7 @@ This is CanhuiLi's homepage in which I'll list my notes, research interests, and
 # Personal Interests
 
 - History/Social Science
-
--  Traditional Chinese Literature/Caligraphy
+- Traditional Chinese Literature/Caligraphy
 - Analytics
 
 # Other Course Works
