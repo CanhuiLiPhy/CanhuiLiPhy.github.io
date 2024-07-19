@@ -1,123 +1,45 @@
----
-layout: default
----
+This is CanhuiLi's homepage in which I'll list my notes, research interests, and finished projects. 
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Research Interests
 
-[Link to another page](./another-page.html).
+- Manipulating and observing quantum properties of condensed matter through transport measurement and STM.
+- STM designing and function extensions with AI techniques.
+- Theoretical condensed matter physics.
 
-There should be whitespace between paragraphs.
+# Educations
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+- 2022.8-Now, Undergraduate, Yuanpei College(Major in Physics), Peking University, Beijing
+- 2019.8-2022.6, High School Student, The High School Affiliated to Yunnan Normal University, Kunming.
 
-# Header 1
+# Publications
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+# Notes/Projects 
 
-## Header 2
+[Server management and maintenance of a Django arena in the 2023 PKUDSA course](https://github.com/XueFengBoyanLiu/pkudsa.eraser.git)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+[Experiment reports of the lab of general physics course in PKU, 2023-2024](https://github.com/CanhuiLiPhy/Lab_of_General_Physics_PKU.git)
 
-### Header 3
+# Internships
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+# Awards
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+- Suzhou Industrial Park Scholarship,2023
+- Peking University freshman scholarship,2022
+- First Prize in CPhO, 2021
+- Second Prize in CMO, 2021
 
-#### Header 4
+# Personal Interests
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+- History/Social Science
 
-##### Header 5
+-  Traditional Chinese Literature/Caligraphy
+- Analytics
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+# Other Course Works
 
-###### Header 6
+[冷湖实习考察报告](https://github.com/CanhuiLiPhy/CanhuiLiPhy.github.io/blob/master/OtherFiles/冷湖实习报告.pdf)
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+[东晋门阀政治读书报告](https://github.com/CanhuiLiPhy/CanhuiLiPhy.github.io/blob/master/OtherFiles/时代，门第与人物.pdf)
 
-### There's a horizontal rule below this.
+[中国社会转型与人口变迁课程论文](https://github.com/CanhuiLiPhy/CanhuiLiPhy.github.io/blob/master/OtherFiles/浅析疫情对中国流动人口的影响.pdf)
 
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
