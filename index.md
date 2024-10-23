@@ -3,7 +3,7 @@ This is CanhuiLi's homepage in which I'll list my notes, research interests, and
 # Research Interests
 
 - Manipulating and observing quantum properties of condensed matter through transport measurement and STM.
-- STM designing and function extensions with AI techniques.
+- STM and AFM designing and function extensions with AI techniques.
 - Theoretical condensed matter physics.
 
 # Educations
@@ -31,7 +31,7 @@ This is CanhuiLi's homepage in which I'll list my notes, research interests, and
 # Personal Interests
 
 - History/Social Science
-- Traditional Chinese Literature/Caligraphy
+- Traditional Literature/Caligraphy
 - Analytics
 
 # Other Course Works
