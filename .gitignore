@@ -3,3 +3,8 @@ _site
 Gemfile.lock
 *.gem
 .jekyll-cache
+.bundle/
+vendor/
+preview-local/
+.vscode/
+.DS_Store
