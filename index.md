@@ -136,6 +136,12 @@ title: Home
         <p>Repository for modern physics laboratory reports and related course materials.</p>
         <span class="project-link">View on GitHub</span>
       </a>
+      <a class="project-card" href="https://github.com/CanhuiLiPhy/Reader-Mingshi">
+        <p class="project-label">Project</p>
+        <h3>Mingshi-Reader</h3>
+        <p>借助大语言模型构建的张廷玉《明史》阅读器。</p>
+        <span class="project-link">View on GitHub</span>
+      </a>
       <a class="project-card" href="https://github.com/CanhuiLiPhy/Torch_LapNet">
         <p class="project-label">Research Code</p>
         <h3>Torch LapNet</h3>
